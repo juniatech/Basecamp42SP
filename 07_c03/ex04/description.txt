@@ -1,0 +1,9 @@
+A função original "strstr" procura um conjunto delimitado de caracteres em uma determinada string.
+Caso encontre, retorna a string do ponto em que encontrou os caracteres de busca até o final.
+Na documentação ("man strstr"), a definição da função consta (de modo bem humorado):
+char *strcasestr(const char *haystack, const char *needle)
+
+Para a solução do problema, fazemos a iteração na string original até encontrar o primeiro caracter procurado, caso encontre,
+a função incrementa ambas as cadeias de caracteres até chegar ao byte nulo do conjunto procurado, o que indica que a cadeia
+procurada foi totalmente encontrada.
+Se não chegar ao byte nulo do conjunto de caracteres procurados, a função continua procurando através da iteração na string.
