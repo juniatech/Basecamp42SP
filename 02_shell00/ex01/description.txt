@@ -18,6 +18,3 @@ o usuário que o criou), pode mudar as permissões dos demais usuários para aqu
 As permissões existem pois são uma forma de dar mais segurança aos arquivos Linux.
 Sem elas, os arquivos ficariam vulneráveis a alterações e ataques mal intencionados, 
 o que poderia resultar em grandes perdas e problemas ao sistema. 
-
-
-
