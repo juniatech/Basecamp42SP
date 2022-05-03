@@ -1,4 +1,4 @@
-# O man file pode ser usado para obter informações, descrições de arquivos "mágicos":
+# 📝 O man file pode ser usado para obter informações, descrições de arquivos "mágicos":
 
 file | -C -m <arquivo> para compilar, 
 
