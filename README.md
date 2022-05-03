@@ -3,6 +3,7 @@ Arquivos finalizados no Basecamp da 42 São Paulo, em Formação de Engenharia d
 
 O Basecamp foi a modalidade online do processo seletivo de 20 dias para a formação de Engenharia de Software, um processo intenso e cheio de desafios! 
 
-# 💥"Dica importante! Se estiver passando pela piscina, não esquece de beber muita água, se hidratar e comer bem! Você vai me agradecer depois!"
+# 💥Dica importante! 
+Se estiver passando pela piscina, não esquece de beber muita água, se hidratar e comer bem! Você vai me agradecer depois! Infelizmente acabei adoecendo no processo, mas mesmo assim cheguei até o final, e não vou desistir tão cedo de me tornar Cadete! Preparei esse repositório para guardar meus trabalhos e anotações. Então espero que se divirta e aprenda muito! 
 
-
+# 💌Confia no processo!
