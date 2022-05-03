@@ -20,4 +20,4 @@ X Exercício 07 : clean
 
 XI Exercício 08 : Ilusões, não truques, Michael... 
 
-# Não esquece de dar git push! É SÉRIO! 🖖
+# Não esquece de dar git push! É SÉRIO! 😬🖖
