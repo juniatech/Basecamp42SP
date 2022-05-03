@@ -1,7 +1,6 @@
 # 📚 Questão:
 
-Crie um arquivo z que, quando se faz um cat acima, exiba um "Z"seguido de uma
-quebra de linha:
+Crie um arquivo z que, quando se faz um cat acima, exiba um "Z" seguido de uma quebra de linha:
 
 # 🖖 Comando usado: 
 
