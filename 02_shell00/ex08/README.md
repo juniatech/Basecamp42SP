@@ -8,4 +8,4 @@ Nisso formatar, detectar e observar suas definições para que através de seus 
 numeros binários por bytes e 'strings' usados, criem um arquivo de formato do tipo mágico,
 com seu desvio, ordem e mensagem. 
 
-# 🗣️ "Calma, que daqui pra frente vai ficar mais divertido! SQN!" 🤖🖖
+# 🗣️ "Calma, que daqui pra frente vai ficar mais divertido! SQN!" 🖖
