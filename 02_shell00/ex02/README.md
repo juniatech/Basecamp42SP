@@ -1,10 +1,12 @@
-# Para descompactar um arquivo .tar usamos:
+# 🔰 Para descompactar um arquivo .tar usamos:
 
 tar -xvf "nomedoarquivo.tar".
 
-# Após resolver o exercício, execute o comando tar -cf exo2.tar * para criar o arquivo.
+# 🖋️ Após resolver o exercício, execute o comando tar -cf exo2.tar * para criar o arquivo.
 
-# Explicação: 
+# 📝 Explicação: 
 
 Novamente editar os atributos e informações de vários arquivos e diretórios,
 hard e soft links.
+
+🗣️ "Agora já sabe o que estudar? Espero que sim!!" 
