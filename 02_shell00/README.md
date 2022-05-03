@@ -1,6 +1,6 @@
-# Preâmbulo
+# 👩‍💻Preâmbulo
 
-# A geleia de macarrão, segundo Pierre Dac
+# A geleia de macarrão, segundo Pierre Dac 🍜
 
 Antes de utilizar o macarrão para fazer a geleia, é preciso
 evidentemente fazer a colheita. 
@@ -164,4 +164,5 @@ resfriada, pegamos o recipiente com muita delicadeza, extremo
 cuidado e o máximo de precaução, e jogamos pela janela
 porque não é bom!
 
-# Ao contrário da geleia de macarrão, o C é bom. Devore!
+# Ao contrário da geleia de macarrão, o C é bom. Devore! 😋
+
