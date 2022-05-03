@@ -1,10 +1,10 @@
-# Para descompactar um arquivo .tar usamos:
+# 🔰 Para descompactar um arquivo .tar usamos:
 
 tar -xvf "nomedoarquivo.tar".
 
-# Após resolver o exercício, execute o comando tar -cf testShell00.tar testShell00 para criar o arquivo que será entregue.
+# 🖋️ Após resolver o exercício, execute o comando tar -cf testShell00.tar testShell00 para criar o arquivo que será entregue.
 
-# Explicação: 
+# 📝 Explicação: 
 
 O comando chmod é usado para lidar com permissões de arquivos do sistema Linux.
 Em sistemas como o Linux, cada arquivo possui um sistema de sinalizadores que indicam
@@ -17,3 +17,5 @@ o usuário que o criou), pode mudar as permissões dos demais usuários para aqu
 As permissões existem pois são uma forma de dar mais segurança aos arquivos Linux.
 Sem elas, os arquivos ficariam vulneráveis a alterações e ataques mal intencionados, 
 o que poderia resultar em grandes perdas e problemas ao sistema. 
+
+# É incrivel né? Também gostei bastante! 🏊
