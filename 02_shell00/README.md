@@ -23,6 +23,7 @@ campo para deixá-lo adequado à fertilização.
 
 Eles revolvem a
 terra com um arado especial cuja lâmina é substituída por uma Gillette.
+
 Em seguida, deixando de lado os fertilizantes químicos,
 claramente contraindicados nesse caso,
 eles jogam sobre o campo queijo ralado. 
