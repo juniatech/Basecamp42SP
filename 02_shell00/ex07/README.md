@@ -6,3 +6,5 @@ esses arquivos e o delete caso encontre o seu nome e expecificaçõe determinada
 Ou seja caso termine com "~" ou tenha "#" no inicio ou no final.
 
 # 💥!man find 
+
+# 🗣️"Te garanto que essa não tem mágica, mas se atente aos detalhes!"
