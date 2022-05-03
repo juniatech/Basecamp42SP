@@ -9,3 +9,5 @@ numeros binários por bytes e 'strings' usados, criem um arquivo de formato do t
 com seu desvio, ordem e mensagem. 
 
 # 🗣️ "Calma, que daqui pra frente vai ficar mais divertido! SQN!" 🖖
+  
+# 💥 Se atente aos arquivos entregáveis, nomes pedidos, qualquer coisa que não seja o que foi pedido está errado!
