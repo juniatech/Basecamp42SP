@@ -1,24 +1,24 @@
 # 👩‍💻Shell 00
 
-# Conteúdo
+# Conteúdo:
 
-Exercício 00 : Z 
+Exercício 00: Z 
 
-Exercício 01 : testShell00 
+Exercício 01: testShell00 
 
-Exercício 02 : Sim, de novo... 
+Exercício 02: Sim, de novo... 
 
-Exercício 03 : midLS 
+Exercício 03: midLS 
 
-Exercise 04 : GiT commit 
+Exercise 04: GiT commit 
 
-Exercise 05 : gitignore 
+Exercise 05: gitignore 
 
-Exercício 06 : diff 
+Exercício 06: diff 
 
-Exercício 07 : clean 
+Exercício 07: clean 
 
-Exercício 08 : Ilusões, não truques, Michael... 
+Exercício 08: Ilusões, não truques, Michael... 
 
 # Não esquece de dar git push! É SÉRIO! 😬🖖
 
