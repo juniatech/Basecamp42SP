@@ -4,4 +4,4 @@ ls -p -> exibir
 --timesaccess -> por data de acesso
 --format=commas -> formatar a exibição por virgulas.
 
-# RTFM ! (Não sabe o que significa? Pesquisa do tio Google!) 👻
+# 👻 RTFM ! (Não sabe o que significa? Pesquisa do tio Google!) 
