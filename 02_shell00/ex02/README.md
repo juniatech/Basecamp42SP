@@ -9,4 +9,4 @@ tar -xvf "nomedoarquivo.tar".
 Novamente editar os atributos e informações de vários arquivos e diretórios,
 hard e soft links.
 
-🗣️ "Agora já sabe o que estudar? Espero que sim!!" 
+# 🗣️ "Agora já sabe o que estudar? Espero que sim!!" 
