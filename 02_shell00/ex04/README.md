@@ -10,8 +10,10 @@ e94d0b448c03ec633f16d84d63beaef9ae7e7be8$ <br>
 %> <br>
 
 # 🖖 Comando usado: 
+´´´sh
 #!/bin/sh <br>
 git log -n5 --format=%H <br>
+´´´
 
 # 📝Explicação:
 Depois de você ter criado vários commits ou se você clonou um repositório com um histórico de commits pré-existente, você vai provavelmente querer olhar para trás e ver o que aconteceu. A ferramenta mais básica e poderosa para fazer isso é o comando git log.
