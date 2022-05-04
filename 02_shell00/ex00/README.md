@@ -4,7 +4,7 @@ Crie um arquivo z que, quando se faz um cat acima, exiba um "Z" seguido de uma q
 
 # 🖖 Comando usado: 
 ```sh
-echo  Z > z
+$echo  Z > z
 ```
 
 # 📝Explicação: 
