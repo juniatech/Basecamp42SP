@@ -11,7 +11,6 @@ e94d0b448c03ec633f16d84d63beaef9ae7e7be8$ <br>
 
 # 🖖 Comando usado: 
 ```sh
-#!/bin/sh 
 git log -n5 --format=%H 
 ```
 
