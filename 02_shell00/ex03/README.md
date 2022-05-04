@@ -13,8 +13,7 @@ ls -pmu
 Comando ls
 O comando ls é usado para visualizar conteúdos em um diretório. Por padrão, esse comando vai mostrar os conteúdos apenas do diretório atual em que você estiver. 
 Se você quiser ver o conteúdo de outros diretórios, digite ls e, então, o caminho do diretório.
-
-# 📝 Através dos atributos e parametros do comando ls, ordenar e exibir as pastas e diretórios de acordo com o que foi proposto.
+Através dos atributos e parametros do comando ls, ordenar e exibir as pastas e diretórios de acordo com o que foi proposto.
 
 ls -p -> exibir 
 --timesaccess -> por data de acesso
