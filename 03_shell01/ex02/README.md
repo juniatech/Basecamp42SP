@@ -27,7 +27,7 @@ find - realiza a busca de um arquivo <br>
 {} .sh \; - expecificações. <br>
 
 # 🤖 Links recomendados: 
-https://man7.org/linux/man-pages/man3/basename.3.html
+https://man7.org/linux/man-pages/man3/basename.3.html <br>
 https://man7.org/linux/man-pages/man1/file.1.html
 
 # Ninguém disse que seria fácil não é mesmo? Continue!
