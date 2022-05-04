@@ -9,14 +9,13 @@ mywork.c$ <br>
 %> <br>
 
 # 🖖 Comando usado:
-#!/bin/sh
-git ls-files --ignored --others --exclude-standard 
+#!/bin/sh <br>
+git ls-files --ignored --others --exclude-standard <br>
 
 # 📝Explicação:
 Fazer com que através do comando o terminal exibisse os arquivos ignorados e irrelevantes no repositório.
 
-git ls-files --others --ignored --
-
+git ls-files --others --ignored -- <br>
 --exclude-standard com modo de exclusão padrão
 
 # 🤖 Link recomendado:
