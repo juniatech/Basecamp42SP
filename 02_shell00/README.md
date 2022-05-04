@@ -10,9 +10,9 @@ Exercício 02: Sim, de novo...
 
 Exercício 03: midLS 
 
-Exercise 04: GiT commit 
+Exercício 04: GiT commit 
 
-Exercise 05: gitignore 
+Exercício 05: gitignore 
 
 Exercício 06: diff 
 
