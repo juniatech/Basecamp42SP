@@ -3,8 +3,9 @@
 Crie um arquivo z que, quando se faz um cat acima, exiba um "Z" seguido de uma quebra de linha:
 
 # 🖖 Comando usado: 
-
+```sh
 "echo  Z > z".
+```
 
 # 📝Explicação: 
 
