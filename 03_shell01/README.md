@@ -14,4 +14,5 @@ Exercício 08: add_chelou <br>
 # 💥Essa lista não é para amadores! 
 # "Decidir o que não fazer é tão importante quanto decidir o que fazer!" - Steve Jobs 🖖
 
-![SteveJobsIntroducingNewAppleProductGIF](https://user-images.githubusercontent.com/95503135/166744714-08b8874a-742f-484e-a4b9-c38a6f7d1d1a.gif)
+![JobsDealWithItGIF](https://user-images.githubusercontent.com/95503135/166745194-83568014-2fbb-4797-9e2c-5d8b1a46171a.gif)
+
