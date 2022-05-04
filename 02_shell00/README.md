@@ -2,22 +2,14 @@
 
 # Conteúdo:
 
-Exercício 00: Z 
-
-Exercício 01: testShell00 
-
-Exercício 02: Sim, de novo... 
-
-Exercício 03: midLS 
-
-Exercício 04: GiT commit 
-
-Exercício 05: gitignore 
-
-Exercício 06: diff 
-
-Exercício 07: clean 
-
+Exercício 00: Z <br>
+Exercício 01: testShell00 <br>
+Exercício 02: Sim, de novo... <br>
+Exercício 03: midLS <br>
+Exercício 04: GiT commit <br> 
+Exercício 05: gitignore <br>
+Exercício 06: diff <br>
+Exercício 07: clean <br>
 Exercício 08: Ilusões, não truques, Michael... 
 
 # Não esquece de dar git push! É SÉRIO! 😬🖖
