@@ -11,7 +11,7 @@ $>./print_groups.sh <br>
 staff,:,staff,god,main,bocal$> <br>
 
 # 🖖 Comando usado:
-#!/bin/sh
+#!/bin/sh <br>
 groups $FT_USER | tr ' ' ',' | tr -d '\n'
 
 # 📝Explicação: 
