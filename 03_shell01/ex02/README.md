@@ -30,7 +30,7 @@ find - realiza a busca de um arquivo <br>
 https://man7.org/linux/man-pages/man3/basename.3.html <br>
 https://man7.org/linux/man-pages/man1/file.1.html
 
-# Ninguém disse que seria fácil não é mesmo? Continue!
+# 🗣️Ninguém disse que seria fácil não é mesmo? Continue!
 ![BooksReadGIF](https://user-images.githubusercontent.com/95503135/166808707-8663ee5b-2dde-4396-ae28-373a959a9f34.gif)
 
 
