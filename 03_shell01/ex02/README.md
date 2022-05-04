@@ -12,7 +12,7 @@ file2$ <br>
 file3$ <br>
 $>
 
-!o uso do as opções da família ’–print’ é proibido
+!O uso das opções da família ’–print’ é proibido
 
 # 🖖 Comando usado: 
 ```sh
@@ -23,8 +23,8 @@ find . -type f -name "*.sh" -exec basename {} .sh \;
 find - realiza a busca de um arquivo <br>
 -type f - do tipo file <br>
 "*.sh" - parâmetro <br>
-- exec basename - devolve o nome de um arquivo (absoleto ou relativo) <br>
-{} .sh \; - expecificações.
+-exec basename - devolve o nome de um arquivo (absoleto ou relativo) <br>
+{} .sh \; - expecificações. <br>
 
 # 🤖 Links recomendados: 
 https://man7.org/linux/man-pages/man3/basename.3.html
