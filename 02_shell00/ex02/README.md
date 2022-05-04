@@ -53,4 +53,7 @@ owner | group | others <br>
 1 --x 001 <br>
 0 --- 000 <br>
 
+# 🤖 Link recomendado:
+https://pt.stackoverflow.com/questions/68704/qual-a-diferen%C3%A7a-entre-um-link-simb%C3%B3lico-e-um-hard-link#:~:text=O%20Soft%20Link%20%C3%A9%20um,inode%20do%20arquivo%20em%20si.
+
 # 🗣️ "Agora já sabe o que estudar? Espero que sim!!" 😎
