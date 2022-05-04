@@ -8,7 +8,7 @@ RTFM !
 
 # 🖖 Comando usado:
 ```sh
-$ ls -pmu
+ls -pmu
 ```
 
 # 📝Explicação: 
