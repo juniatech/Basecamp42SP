@@ -1,8 +1,20 @@
-# 🔰 Para descompactar um arquivo .tar usamos:
+# 📚 Questão:
+• Crie o arquivo testShell00 em sua pasta de entrega.
+• Você deve garantir que:
+%> ls -l
+total XX
+-r--r-xr-x 1 XX XX 40 Jun 1 23:42 testShell00
+%>
+Em relação às horas, será tolerado que o ano seja exibido se a data do exercício (1º
+de junho) for de seis meses antes ou mais antiga.
+• Após resolver o exercício, execute o comando tar -cf testShell00.tar testShell00
+para criar o arquivo que será entregue.
 
-tar -xvf "nomedoarquivo.tar".
+!Os XX não serão considerados.
+!Um ano é uma resposta aceita em vez de um horário.
 
-# 🖋️ Após resolver o exercício, execute o comando tar -cf testShell00.tar testShell00 para criar o arquivo que será entregue.
+# 🖖 Comando usado: 
+CHMOD
 
 # 📝 Explicação: 
 
@@ -17,5 +29,12 @@ o usuário que o criou), pode mudar as permissões dos demais usuários para aqu
 As permissões existem pois são uma forma de dar mais segurança aos arquivos Linux.
 Sem elas, os arquivos ficariam vulneráveis a alterações e ataques mal intencionados, 
 o que poderia resultar em grandes perdas e problemas ao sistema. 
+
+# Link recomendado: 
+https://guialinux.uniriotec.br/chmod/
+
+# 🔰 Para descompactar um arquivo .tar usamos:
+
+tar -xvf "nomedoarquivo.tar".
 
 # 🗣️"É incrivel né? Também gostei bastante!" 🏊
