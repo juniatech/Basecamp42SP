@@ -30,7 +30,7 @@ As permissões existem pois são uma forma de dar mais segurança aos arquivos L
 Sem elas, os arquivos ficariam vulneráveis a alterações e ataques mal intencionados, 
 o que poderia resultar em grandes perdas e problemas ao sistema. 
 
-# Link recomendado: 
+# 🤖 Link recomendado: 
 https://guialinux.uniriotec.br/chmod/
 
 # 🔰 Para descompactar um arquivo .tar usamos:
