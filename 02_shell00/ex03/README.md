@@ -7,7 +7,9 @@ O que não é pedido, não é para ser feito!
 RTFM !
 
 # 🖖 Comando usado:
-ls -pmu
+```sh
+$ ls -pmu
+```
 
 # 📝Explicação: 
 Comando ls
