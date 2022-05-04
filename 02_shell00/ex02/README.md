@@ -26,7 +26,9 @@ chmod -> ler, escrever e execultar permissões de arquivos e diretórios. <br>
 
 # 🔰 Para descompactar um arquivo .tar usamos:
 
-tar -xvf "nomedoarquivo.tar". <br>
+```sh
+tar -xvf <nomedoarquivo.tar>
+```
 
 # 🖋️ Após resolver o exercício, execute o comando tar -cf exo2.tar * para criar o arquivo.
 
